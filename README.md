@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay Meena</h1>
 <h3 align="center">I can write efficient code in python, JavaScript.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hacetheworld" alt="hacetheworld" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hacetheworld&label=Profile%20views&color=0e75b6&style=flat" alt="hacetheworld" /> </p>
 
 - 🔭 I’m currently Working On [Django-python-project](https://github.com/hacetheworld/Django-python-website)
 
@@ -24,7 +24,7 @@
 <a href="https://www.codechef.com/users/majay1638" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="majay1638" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/majay1638" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="majay1638" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/majay1638" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="majay1638" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/majay1638/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/majay1638/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/majay1638" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="majay1638" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
