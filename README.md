@@ -5,11 +5,13 @@
 
 - 🔭 I’m currently Working On [Django-python-project](https://github.com/hacetheworld/Django-python-website)
 
-- 🌱 I’m currently learning **Django, ReactJs**
+- 🌱 I’m currently learning **Django,ReactJs,Data structure and algorithms**
 
 - 👨‍💻 All of my projects are available at [https://hacetheworld.github.io/](https://hacetheworld.github.io/)
 
-- 💬 Ask me about **Python,JavaScript,React**
+- 📝 I regularly write articles on [https://medium.com/@majay1638](https://medium.com/@majay1638)
+
+- 💬 Ask me about **Python,JavaScript,ReactJs**
 
 - 📫 How to reach me **majay1638@gmail.com**
 
