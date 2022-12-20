@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hacetheworld&label=Profile%20views&color=0e75b6&style=flat" alt="hacetheworld" /> </p>
 
-- 🔭 I’m currently Working On [Django-python-project](https://github.com/hacetheworld/Django-python-website)
+- 🔭 I’m currently Working On [Mern-stack-project](https://github.com/hacetheworld/notes-zipper)
 
-- 🌱 I’m currently learning **Django,Data structure and algorithms**
+- 🌱 I’m currently learning **Data structure and algorithms, Typescript, Testing**
 
 - 👨‍💻 All of my projects are available at [https://hacetheworld.github.io/](https://hacetheworld.github.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@majay1638](https://medium.com/@majay1638)
 
-- 💬 Ask me about **Python,JavaScript,ReactJs**
+- 💬 Ask me about **Python,JavaScript,ReactJs,Nodejs**
 
 - 📫 How to reach me **majay1638@gmail.com**
 
