@@ -3,19 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hacetheworld&label=Profile%20views&color=0e75b6&style=flat" alt="hacetheworld" /> </p>
 
-- 🔭 I’m currently Working On [Mern-stack-project](https://github.com/hacetheworld/notes-zipper)
+- 🔭 I’m currently Working On [Django-react-project](https://github.com/hacetheworld/Django-appointment-management-webapp.git)
 
-- 🌱 I’m currently learning **Data structure and algorithms, Typescript, Testing**
+- 🌱 I’m currently learning **Data structure and algorithms, Python,Django,**
 
 - 👨‍💻 All of my projects are available at [https://hacetheworld.github.io/](https://hacetheworld.github.io/)
-
-- 📝 I regularly write articles on [https://medium.com/@majay1638](https://medium.com/@majay1638)
 
 - 💬 Ask me about **Python,JavaScript,ReactJs,Nodejs**
 
 - 📫 How to reach me **majay1638@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14tVawR2N0mqaBlTuwZoNuOxR-u3Mzbaf/view?usp=sharing](https://drive.google.com/file/d/14tVawR2N0mqaBlTuwZoNuOxR-u3Mzbaf/view?usp=sharing)
+- 📄 My Resume https://drive.google.com/file/d/1g8BvBYvUfQQ_R_78KnxHdiewIXRAqyUy/view?usp=drive_link
 
 - ⚡ Fun fact **I Think I am Funny**
 
