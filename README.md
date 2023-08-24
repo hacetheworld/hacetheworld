@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **majay1638@gmail.com**
 
-- 📄 My Resume https://drive.google.com/file/d/1g8BvBYvUfQQ_R_78KnxHdiewIXRAqyUy/view?usp=drive_link
+- 📄 My Resume http://surl.li/kknry
 
 - ⚡ Fun fact **I Think I am Funny**
 
