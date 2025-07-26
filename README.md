@@ -1,30 +1,24 @@
-<h1 align="center">Hi 👋, I'm Ajay Meena</h1>
+<h1 align="center">Hi 👋, I'm Ajay Meena an Software enginner with 2+ years of experience.</h1>
 <h3 align="center">I can write efficient code in python, JavaScript.</h3>
+<h3 align="center">
+  I am currently looking for a job change as a ** Software Engineer ** with more than 2+ years of experience. I have experience of full-stack web application development, can build the product from scratch to put online, and can convert simple idea to working product.I don't know everything, but I am willing to learn and mind you, I am a very fast learner, just need a reason for...
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hacetheworld&label=Profile%20views&color=0e75b6&style=flat" alt="hacetheworld" /> </p>
 
-- 🔭 I’m currently Working On [Django-react-project](https://github.com/hacetheworld/Django-appointment-management-webapp.git)
-
-- 🌱 I’m currently learning **Data structure and algorithms, Python,Django,**
+- 🌱 I’m currently learning **Data structure and algorithms, Python,Django,Javascript**
 
 - 👨‍💻 All of my projects are available at [https://hacetheworld.github.io/](https://hacetheworld.github.io/)
 
-- 💬 Ask me about **Python,JavaScript,ReactJs,Nodejs**
+- 💬 Ask me about **Python,JavaScript,ReactJs,Nodejs,Software engineering**
 
 - 📫 How to reach me **majay1638@gmail.com**
-
-- 📄 My Resume http://surl.li/kknry
 
 - ⚡ Fun fact **I Think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ajay-meena1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-meena1" height="30" width="40" /></a>
-<a href="https://instagram.com/ajay_meena1638" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajay_meena1638" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/majay1638" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="majay1638" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/majay1638" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="majay1638" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/majay1638" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="majay1638" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/majay1638" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="majay1638" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
