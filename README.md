@@ -2,7 +2,11 @@
 
 Full-Stack Software Engineer — Backend & Event-Driven Systems · Open to Remote
 
-I build backend systems around event streams and ledgers — the kind of work where correctness matters more than speed of shipping. Right now that means a multi-entity double-entry accounting platform; before that, signage systems, visitor automation, and internal tooling.
+### Background
+
+3.5 years across four roles — junior developer to owning features end-to-end. I've worked with ambiguous requirements more than once: picking an architecture during requirement-gathering, building something from a blank repo, or troubleshooting production issues alongside senior engineers before I had the experience to do it alone.
+
+---
 
 **Email:** majay1638@gmail.com · **LinkedIn:** https://linkedin.com/in/ajay-meena1
 
@@ -29,10 +33,6 @@ Working on a multi-ledger, double-entry accounting system built on [Formance](ht
 - **Digital signage platform** — designed and shipped end to end: React frontend, Express REST APIs, MSSQL schema, admin dashboards, device-communication flows. Also made the call to use React over Angular after weighing performance and maintainability.
 - **Face-recognition visitor automation** — Python, OpenCV, face_recognition — cut manual form-filling by ~90%, tuned for low false positives. Used ElasticSearch for fast matching, Dockerized the delivery pipeline.
 - **AI code-review bot** — watches GitHub PRs and flags SQL-injection risks, code-quality issues, and guideline mismatches. Chunk-based processing so it can handle large PRs without losing review context.
-
-### Background
-
-3.5 years across four roles — junior developer to owning features end-to-end. I've worked with ambiguous requirements more than once: picking an architecture during requirement-gathering, building something from a blank repo, or troubleshooting production issues alongside senior engineers before I had the experience to do it alone.
 
 ---
 
