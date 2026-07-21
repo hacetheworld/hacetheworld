@@ -1,25 +1,39 @@
-<h1 align="center">Hi 👋, I'm Ajay Meena an Software enginner with 3 years of experience.</h1>
-<h3 align="center">I can write efficient code in python, JavaScript.</h3>
-<h5 align="center">
-  I am currently looking for a job change as a ** Software Engineer ** with more than 3 years of experience. I have experience of full-stack web application development, can build the product from scratch to put online, and can convert simple idea to working product.I don't know everything, but I am willing to learn and mind you, I am a very fast learner, just need a reason for...
-</h5>
+# Ajay Meena
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hacetheworld&label=Profile%20views&color=0e75b6&style=flat" alt="hacetheworld" /> </p>
+Full-Stack Software Engineer — Backend & Event-Driven Systems · Open to Remote
 
-- 🌱 I’m currently learning **How to utilize the AI in Day to Day Life.. experimenting with diffrent diffrent tools like cursor, claude,lovable,gpt,gemini**
+I build backend systems around event streams and ledgers — the kind of work where correctness matters more than speed of shipping. Right now that means a multi-entity double-entry accounting platform; before that, signage systems, visitor automation, and internal tooling.
 
-- 👨‍💻 All of my projects are available at [https://hacetheworld.github.io/](https://hacetheworld.github.io/)
+**Email:** majay1638@gmail.com · **LinkedIn:** https://linkedin.com/in/ajay-meena1
 
-- 💬 Ask me about **Python,JavaScript,ReactJs,Nodejs,Software engineering**
+---
 
-- 📫 How to reach me **majay1638@gmail.com**
+### What I work with
 
-- ⚡ Fun fact **I Think I am Funny**
+```
+Languages     TypeScript · JavaScript · Python
+Backend       Node.js · NestJS · Express.js · REST APIs · JWT/Auth
+Data/Events   Kafka · Debezium (CDC) · BullMQ · Redis · MySQL · MSSQL · MongoDB · ElasticSearch
+Frontend      React.js · TypeScript · HTML5 · CSS3
+Cloud/DevOps  GCP · Docker · CI/CD · Git · Observability (logs/metrics/traces, RUM)
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ajay-meena1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-meena1" height="30" width="40" /></a>
-</p>
+### Currently
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+Working on a multi-ledger, double-entry accounting system built on [Formance](https://www.formance.com/) — every posting has to stay balanced, attributed, and reconcilable across entities. I built the event-sync pipeline (MySQL → Debezium CDC → Kafka) that turns domain events into deterministic ledger postings, and an audit-trail subsystem for tracing every batch end to end.
+
+### A few things I've built
+
+- **Event-sync pipeline** — CDC-based streaming from MySQL into Kafka, driving an event engine that maps business events to ledger postings.
+- **Audit-trail subsystem** — write-side event capture + read-side UI with cursor pagination, for financial traceability.
+- **Digital signage platform** — designed and shipped end to end: React frontend, Express REST APIs, MSSQL schema, admin dashboards, device-communication flows. Also made the call to use React over Angular after weighing performance and maintainability.
+- **Face-recognition visitor automation** — Python, OpenCV, face_recognition — cut manual form-filling by ~90%, tuned for low false positives. Used ElasticSearch for fast matching, Dockerized the delivery pipeline.
+- **AI code-review bot** — watches GitHub PRs and flags SQL-injection risks, code-quality issues, and guideline mismatches. Chunk-based processing so it can handle large PRs without losing review context.
+
+### Background
+
+3.5 years across four roles — junior developer to owning features end-to-end. I've worked with ambiguous requirements more than once: picking an architecture during requirement-gathering, building something from a blank repo, or troubleshooting production issues alongside senior engineers before I had the experience to do it alone.
+
+---
+
+📫 Reach me at majay1638@gmail.com or open an issue on any of my repos.
